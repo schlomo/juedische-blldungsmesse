@@ -89,3 +89,6 @@ Früher gab es hier auch eine Liste der jüdischen Bildungseinrichtungen in Deut
 * Vorbeugen von Parteinahme oder Benachteiligung
 * Mehr Spenden einwerben können, wenn jeder sehen kann, wofür das Geld ausgegeben wird
 * Ausnahme sind sicherheitsrelevante Details
+
+---
+[Impressum](http://www.schapiro.org/impressum)
